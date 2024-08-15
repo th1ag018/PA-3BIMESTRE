@@ -1,0 +1,7 @@
+1- Desenvolva um algoritmo para retornar uma mensagem se o número atribuido a variável é par ou ímpar.
+
+2- Desenvolva um algoritmo pare retornar uma mensagem se o número atribuido a variável é positiva ou negativo.
+
+3- Criar um programa para autenticar a entrada de um usúario por meio de seu login e senha.
+O login correta será: "root" e a senha será "info@1234". Se os dados estiverem errados, deverá aparecer a mensagem: "Dados não conferem. Procure o Administrador".
+Deverão fazer em javascript e diagrama
